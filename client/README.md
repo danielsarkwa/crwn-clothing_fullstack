@@ -1,7 +1,3 @@
-## Lesson-30
-
-In this lesson we are doing a large refactor! We need to convert all our sign in, sign up and authentication persistence checks into sagas. We don't necessarily need to do this for our application, but this is a good way to practice writing sagas in a real world application that may not leverage firebase/firestore or the observer pattern.
-
 # How to fork and clone
 
 One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
